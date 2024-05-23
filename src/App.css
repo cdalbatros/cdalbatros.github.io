@@ -24,7 +24,11 @@
   color: white;
 }
 
-.ant-menu-title-content {
+.ant-menu-horizontal .ant-menu-title-content {
+  color: white!important;
+}
+
+.ant-menu-submenu-title .anticon-ellipsis {
   color: white!important;
 }
 
