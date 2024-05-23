@@ -1,0 +1,55 @@
+.header-content {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  width: 100px;
+  height: 64px;
+  margin: 0px 24px 0px 0;
+  font-weight: bold;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(/src/images/logo_hd_small.png);
+}
+
+.slide-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  max-height: 90vh;
+}
+
+.slide-image.slide-1 {
+  background-image: url(/src/images/club/bg1.jpg);
+}
+
+.slide-image.slide-2 {
+  background-image: url(/src/images/club/bg6.png);
+}
+
+.slide-image.slide-3 {
+  background-image: url(/src/images/club/bg2.jpg);
+}
+
+.slide-image.slide-4 {
+  background-image: url(/src/images/club/bg4.png);
+}
+
+.twitter-container {
+  width: 100%;
+  padding: 0 5%;
+}
+
+.twitter-container-small {
+  width: 25%;
+  display: block;
+  position: absolute;
+  top: 40px;
+  right: 20px;
+}
