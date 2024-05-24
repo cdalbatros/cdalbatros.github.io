@@ -12,25 +12,34 @@
   flex-direction: row;
   justify-content: center;
   padding-bottom: 2rem;
+  flex-wrap: wrap;
 }
 
 .sponsorsFull img {
-  height: 100%;
-  width: 300px;
-}
-
-.sponsorsStandard img {
-  height: 100%;
   width: 260px;
 }
 
-.sponsorsBasic img {
-  height: 100%;
+.sponsorsStandard img {
   width: 220px;
+}
+
+.sponsorsBasic img {
+  width: 180px;
 }
 
 .sponsorItem {
   margin: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sponsorItem img {
+  opacity: 0.7;
+}
+
+.sponsorItem img:hover {
+  opacity: 1;
 }
 
 @media screen and (max-width: 1100px) {

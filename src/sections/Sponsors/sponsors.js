@@ -3,82 +3,82 @@ const sponsors = {
     {
       name: 'Destinico',
       url: 'https://www.destinico.com.uy/',
-      image: 'destinico.png',
+      image: 'destinico_black.png',
     },
     {
       name: 'Tirapu',
-      url: '',
-      image: 'destinico.png',
-    },
-    {
-      name: 'Pastas sin gluten',
-      url: '',
-      image: 'destinico.png',
-    },
-    {
-      name: 'Dunk Party',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.tirapu.com.uy/',
+      image: 'tirapu_black.png',
     },
     {
       name: 'LaveYa',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.laveya.uy/',
+      image: 'lave_ya_black.png',
+    },
+    {
+      name: 'Pastas sin gluten',
+      url: 'https://www.instagram.com/pastas.sin.gluten.uy/',
+      image: 'pastasroma_black.png',
+    },
+    {
+      name: 'Dunk Party',
+      url: 'https://www.instagram.com/dunk_partyse/',
+      image: 'dunk_party_black.png',
     },
   ],
   standard: [
     {
       name: 'Yinyin',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.yinyin.com.uy/',
+      image: 'yinyin_black.png',
     },
     {
       name: 'Grupo 3',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://grupotres.com.uy/',
+      image: 'grupo3_black.png',
     },
     {
       name: 'Naju designs',
-      url: 'https://noroof.dev',
-      image: 'destinico.png',
+      url: 'https://www.instagram.com/herrerianajudesign/',
+      image: 'herreria_black.png',
     },
     {
       name: 'Barberia 13',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.instagram.com/13barberia/',
+      image: 'barberia_black.png',
     },
   ],
   basic: [
     {
       name: 'The King',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.instagram.com/mediasantideslizantes_theking/',
+      image: 'the_king_black.png',
     },
     {
-      name: 'Pascuali',
-      url: '',
-      image: 'destinico.png',
+      name: 'Pascubake',
+      url: 'https://www.instagram.com/pascubake/',
+      image: 'pascubake_black.png',
     },
     {
       name: 'Punto Sano',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://www.puntosano.com.uy/',
+      image: 'punto_sano_black.png',
     },
-    {
-      name: 'Automortora Lopez Motors',
-      url: '',
-      image: 'destinico.png',
-    },
+    // {
+    //   name: 'Automortora Lopez Motors',
+    //   url: '',
+    //   image: 'destinico.png',
+    // },
     {
       name: 'Proplast',
-      url: '',
-      image: 'destinico.png',
+      url: 'https://uy.linkedin.com/company/proplast-s-a',
+      image: 'proplast_black.png',
     },
-    {
-      name: 'Cindy',
-      url: '',
-      image: 'destinico.png',
-    },
+    // {
+    //   name: 'Cindy',
+    //   url: '',
+    //   image: 'destinico.png',
+    // },
   ]
 };
 

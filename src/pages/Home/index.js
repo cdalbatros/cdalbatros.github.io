@@ -129,12 +129,9 @@ const Home = () => {
           <Staff />
         </Section>
 
-{
-  false && <Section title='Nuestros Sponsors' id='sponsors' key='section_sponsors'>
-  <Sponsors />
-</Section>
-}
-        
+        <Section title='Nuestros Sponsors' id='sponsors' key='section_sponsors'>
+          <Sponsors />
+        </Section>
 
         <Section title='Ponete en contacto' bgColor='#171742' fontColor='#fff' id='contact' key='section_contact'>
           <Contact />

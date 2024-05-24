@@ -49,7 +49,7 @@ const actividades =  [
   },
   {
     title: 'Indoor Cycling',
-    image: 'indoor_cycling.png',
+    image: 'indoor_cycling.jpeg',
     contacto: '091 524 022',
     desc: 'Es una actividad física, en la mayoría de los casos colectiva, la cual se realiza sobre una bicicleta estática al ritmo de la música. Este ejercicio físico presenta un importante trabajo cardiovascular, donde se trabaja mayoritariamente los grupos musculares del tren inferior.'
   },
