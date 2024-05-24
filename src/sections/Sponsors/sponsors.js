@@ -74,11 +74,11 @@ const sponsors = {
       url: 'https://uy.linkedin.com/company/proplast-s-a',
       image: 'proplast_black.png',
     },
-    // {
-    //   name: 'Cindy',
-    //   url: '',
-    //   image: 'destinico.png',
-    // },
+    {
+      name: 'LEO Publicidad',
+      url: 'https://www.pasacalles.uy/',
+      image: 'cindy_black.png',
+    },
   ]
 };
 
