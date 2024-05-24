@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b440871.css",
-    "main.js": "/static/js/main.1c1bcaae.js",
+    "main.css": "/static/css/main.55418f01.css",
+    "main.js": "/static/js/main.93da70a2.js",
     "static/js/488.1fb1b248.chunk.js": "/static/js/488.1fb1b248.chunk.js",
     "static/media/bg6.png": "/static/media/bg6.9bbe56095cc0b6402e6e.png",
     "static/media/bg2 copy.jpg": "/static/media/bg2 copy.f340bb3b1dae7f6c45e1.jpg",
@@ -31,9 +31,10 @@
     "static/media/handball.png": "/static/media/handball.1c27e265546d0832a1ea.png",
     "static/media/funcional.jpg": "/static/media/funcional.0e57b2c78c8035684dc3.jpg",
     "static/media/mamibasket.jpeg": "/static/media/mamibasket.0941d9ea043748eb0d4b.jpeg",
-    "static/media/indoor_cycling.png": "/static/media/indoor_cycling.3efc998e1be4fed0d167.png",
+    "static/media/indoor_cycling.jpeg": "/static/media/indoor_cycling.465e0985e79a4aa4b97d.jpeg",
     "static/media/alvin.png": "/static/media/alvin.a3a6e5661813af0eb89b.png",
     "static/media/agostina.png": "/static/media/agostina.f88f041f97fb784cbec7.png",
+    "static/media/pastasroma_black.png": "/static/media/pastasroma_black.c63f9cf4ec24139b6596.png",
     "static/media/agustin.png": "/static/media/agustin.6530853bd60c3ac0e5a3.png",
     "static/media/camilo.jpeg": "/static/media/camilo.cf7d6137b06197002665.jpeg",
     "static/media/hiit.jpeg": "/static/media/hiit.2bdc0265282de4e47f7b.jpeg",
@@ -49,16 +50,22 @@
     "static/media/logo_hd_small.png": "/static/media/logo_hd_small.e19aaa1306d868e78181.png",
     "static/media/historia2 copy.png": "/static/media/historia2 copy.c2a8398c10cee9e389ab.png",
     "static/media/historia2.png": "/static/media/historia2.c2a8398c10cee9e389ab.png",
+    "static/media/wiki_black.png": "/static/media/wiki_black.32244cc65e596561b96b.png",
     "static/media/historia1 copy.png": "/static/media/historia1 copy.71f48cba49b972c44634.png",
     "static/media/historia1.png": "/static/media/historia1.71f48cba49b972c44634.png",
     "static/media/ale.jpeg": "/static/media/ale.914377e841c2355add3f.jpeg",
+    "static/media/grupo3_black.png": "/static/media/grupo3_black.6296942ec9569f50fc44.png",
+    "static/media/barberia_black.png": "/static/media/barberia_black.a1110d30a36592cd7c3d.png",
+    "static/media/dunk_party_black.png": "/static/media/dunk_party_black.9a77d4f90acc541fa57f.png",
+    "static/media/tirapu_black.png": "/static/media/tirapu_black.6f143a30e225a92ede68.png",
+    "static/media/punto_sano_black.png": "/static/media/punto_sano_black.5dec8ecdb5a509479ae5.png",
     "index.html": "/index.html",
-    "main.0b440871.css.map": "/static/css/main.0b440871.css.map",
-    "main.1c1bcaae.js.map": "/static/js/main.1c1bcaae.js.map",
+    "main.55418f01.css.map": "/static/css/main.55418f01.css.map",
+    "main.93da70a2.js.map": "/static/js/main.93da70a2.js.map",
     "488.1fb1b248.chunk.js.map": "/static/js/488.1fb1b248.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b440871.css",
-    "static/js/main.1c1bcaae.js"
+    "static/css/main.55418f01.css",
+    "static/js/main.93da70a2.js"
   ]
 }
