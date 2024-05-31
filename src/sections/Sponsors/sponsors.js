@@ -28,6 +28,11 @@ const sponsors = {
   ],
   standard: [
     {
+      name: 'Oficina Sosa',
+      url: 'https://www.oficinasosa.com.uy/',
+      image: 'oficina_sosa_black.png',
+    },
+    {
       name: 'Yinyin',
       url: 'https://www.yinyin.com.uy/',
       image: 'yinyin_black.png',

@@ -15,13 +15,17 @@ const Socios = () => {
          <h2 className='large-text'>Beneficios del Socio</h2>
           <dl>
             <dt>Entradas plantel principal</dt>
-            <dd>50% OFF en el precio de la entrada general.</dd>
+            <dd>50% OFF en el precio de la entrada general y descuento en abonos.</dd>
+            <dt><a href='https://www.destinico.com.uy/' target='blank'>Destinico</a></dt>
+            <dd>100 U$S OFF en la primera compra de paquetes y seguro de viaje gratis para menores de edad.</dd>
             <dt><a href='https://www.puntosano.com.uy/' target='blank'>Punto Sano</a></dt>
             <dd>15% OFF en pedidos por la web. Pedir código promocional en secretaría o por whatsapp.</dd>
             <dt><a href='https://www.instagram.com/ecojuice.uy/' target='blank'>Eco juice</a></dt>
             <dd>15% OFF en planes mensuales.</dd>
             <dt><a href='https://www.instagram.com/bracketspradouy/' target='blank'>Consultorio odontológico Karina Rebollo</a></dt>
             <dd>30% OFF en todos los tratamientos.</dd>
+            <dt><a href='https://www.clinicagrip.com.uy/' target='blank'>Clínica GRIP</a></dt>
+            <dd>15% OFF para Socios y 25% OFF para Socios Boutique</dd>
             <dt>Clinica deportiva walter ferreira</dt>
             <dd>20% OFF en consultas y sesiones.</dd>
             <dt>Instituto Anglo (prado)</dt>
