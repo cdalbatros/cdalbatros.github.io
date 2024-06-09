@@ -26,6 +26,8 @@ const Socios = () => {
             <dd>30% OFF en todos los tratamientos.</dd>
             <dt><a href='https://www.clinicagrip.com.uy/' target='blank'>Clínica GRIP</a></dt>
             <dd>15% OFF para Socios y 25% OFF para Socios Boutique</dd>
+            <dt><a href='https://www.instagram.com/mediasantideslizantes_theking/' target='blank'>The King - Medias antideslizantes</a></dt>
+            <dd>20% OFF en todos los productos.</dd>
             <dt>Clinica deportiva walter ferreira</dt>
             <dd>20% OFF en consultas y sesiones.</dd>
             <dt>Instituto Anglo (prado)</dt>
