@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga4';
 import PageLayout from 'comps/Layout';
 
 import './styles.css';
@@ -6,6 +7,11 @@ import Section from 'comps/Section';
 import Contact from 'sections/Contact';
 
 const Socios = () => {
+  ReactGA.send({
+    hitType: 'pageview',
+    page: '/socios',
+    title: 'Socios'
+  });
   return (
     <PageLayout>
       

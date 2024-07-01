@@ -52,6 +52,11 @@ const sponsors = {
       url: 'https://www.instagram.com/13barberia/',
       image: 'barberia_black.png',
     },
+    {
+      name: 'Super Vero',
+      url: 'https://www.instagram.com/supervero2800/',
+      image: 'supervero_black.png',
+    },
   ],
   basic: [
     {
@@ -83,6 +88,11 @@ const sponsors = {
       name: 'LEO Publicidad',
       url: 'https://www.pasacalles.uy/',
       image: 'cindy_black.png',
+    },
+    {
+      name: 'KBZA Fotografía',
+      url: 'https://www.instagram.com/javier_martinez_kbza/',
+      image: 'kbza_black.png',
     },
   ]
 };

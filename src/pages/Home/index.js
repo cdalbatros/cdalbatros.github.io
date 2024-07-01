@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Carousel, Grid } from 'antd';
 import { TwitterTimelineEmbed } from 'react-twitter-embed';
+import ReactGA from 'react-ga4';
 
 import Activities from 'sections/Activities';
 import Schedule from 'sections/Schedule';
@@ -19,6 +20,11 @@ import './styles.css';
 import Sponsors from 'sections/Sponsors';
 
 const Home = () => {
+  ReactGA.send({
+    hitType: 'pageview',
+    page: '/',
+    title: 'Home'
+  });
   const [sliderHeight, setSliderHeight] = useState('100vh');
   const slides = ['slide-1', 'slide-2', 'slide-3', 'slide-4'];
 

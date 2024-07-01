@@ -2,13 +2,12 @@
 import './App.css';
 import 'antd/dist/reset.css';
 import { ParallaxProvider } from 'react-scroll-parallax';
-
 import {
   BrowserRouter as Router,
   Routes,
   Route,
 } from "react-router-dom";
-
+import ReactGA from 'react-ga4';
 
 import Home from './pages/Home';
 import About from './pages/About';
@@ -16,6 +15,7 @@ import Directiva from './pages/Directiva';
 import Socios from 'pages/Socios';
 
 const App = () => {
+  ReactGA.initialize('G-48FLMET5FP');
   return (
     <Router>
       <div className="App">

@@ -1,3 +1,4 @@
+import ReactGA from 'react-ga4';
 import Banner from 'comps/Banner';
 import PageLayout from 'comps/Layout';
 
@@ -7,6 +8,11 @@ import Section from 'comps/Section';
 import Contact from 'sections/Contact';
 
 const Directiva = () => {
+  ReactGA.send({
+    hitType: 'pageview',
+    page: '/directiva',
+    title: 'Directiva'
+  });
   return (
     <PageLayout>
       <Banner imageSrc={'directiva.jpeg'}  />
