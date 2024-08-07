@@ -33,6 +33,11 @@ const sponsors = {
       image: 'oficina_sosa_black.png',
     },
     {
+      name: 'Wiki',
+      url: 'https://wiki.com.uy/',
+      image: 'wiki_black.png',
+    },
+    {
       name: 'Yinyin',
       url: 'https://www.yinyin.com.uy/',
       image: 'yinyin_black.png',

@@ -1,6 +1,6 @@
 const staff = [
   {
-    name: 'Alvin Chimanovski',
+    name: 'Alvin Chimanoski',
     position: '',
     desc: 'Director Deportivo',
     image: 'staff/alvin.png',
